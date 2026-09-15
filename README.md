@@ -59,3 +59,5 @@ Input Image (1xHxW) ──> [Encoder Conv Blocks] ──Downsample──> Bottle
                                                 [Decoder Conv Blocks] ──> Output Mask (1xHxW)
 ```
 
+Reference: 
+Ronneberger, O., Fischer, P., & Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. MICCAI.
